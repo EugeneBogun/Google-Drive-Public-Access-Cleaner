@@ -1,5 +1,16 @@
 {
-    "require": {
-        "google/apiclient": "^2.0"
-    }
+  "name": "EugeneBogun/google-drive-public-access-cleaner",
+  "description": "Google Drive Public Access Cleaner",
+  "keywords": [
+    "google",
+    "gdrive",
+    "google drive",
+    "google public access"
+  ],
+  "license": "proprietary",
+  "type": "project",
+  "require": {
+    "php": ">=5.4",
+    "google/apiclient": "^2.0"
+  }
 }

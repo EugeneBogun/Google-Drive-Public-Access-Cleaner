@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "3e6e79e410cd98a8d86f36f772fe3690",
+    "content-hash": "db8c3bb25fb49a70f8ff8f93bb4c0d9d",
     "packages": [
         {
             "name": "firebase/php-jwt",
@@ -696,6 +696,8 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": ">=5.4"
+    },
     "platform-dev": []
 }
